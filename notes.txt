@@ -1,0 +1,17 @@
+for vedio : <embed> tag
+<iframe> tag : helps to open a vedio from another webpage to our webpage
+Map: Setting - Share and Embeded Map - Embed map
+QR code Generator : www.the-qrcode-generator.com -> click generate
+for counter : Flagcounter.com -> set flag -> get html code
+facebook developers -> like box
+
+CSS - Cascading Style Sheet
+Types :
+1. External Sheet
+2. Internal Sheet
+3. Inline Sheet
+
+Selectors :
+1. Tags
+2. Class
+3. Id's
